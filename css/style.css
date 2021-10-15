@@ -363,10 +363,10 @@ outline: none;
 	background-color:#34C759;
 	transition: 0.3s;
 }
-/* .works__card:not(:nth-child(2)) {
+.works__card:not(:nth-child(2)) {
 	opacity: 0;
 	visibility: hidden;
-} */
+}
 .works-card__title {
 	font-family:'Helvetica Neue';
 	font-size: 22px;
